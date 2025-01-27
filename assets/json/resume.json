@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Carolina Brañas",
+    "label": "Social Data Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "carobrasor@gmail.com",
+    "phone": "+45 60 90 73 33",
+    "url": "https://carobs9.github.io",
+    "summary": "[Social Data Science MSc.](https://www.ku.dk/studies/masters/social-data-science) graduate, deeply passionate about the field of data science and analytics, particularly interested in the use of machine learning, natural language processing and network analysis tools to find relevant solutions to big and small problems. ",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "carolinabranas",
+        "url": "https://www.linkedin.com/in/carolinabranas/"
       }
     ]
   },
