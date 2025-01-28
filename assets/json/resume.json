@@ -26,19 +26,21 @@
       "position": "Research Assistant",
       "startDate": "2024-05",
       "endDate": "In Progress",
-      "summary": "Working along a team of researchers for the project “Shocking Religion”, which examines the impact of religion on economic factors using shocks to religion as natural experiments. Some of my tasks comprise:gathering large unstructured data using different methods such as web scraping or document data extraction, or by structuring existing digitized data",
-      "highlights": ["Research"]
-    }
-  ],
-  "work_2": [
+      "summary": "Working along a team of researchers for the project “Shocking Religion”, which examines the impact of religion on economic factors using shocks to religion as natural experiments.",
+      "highlights": ["Gathering large unstructured data using different methods such as web scraping or document data extraction, or by structuring existing digitized data",
+      "Cleaning, merging, and visualizing data",
+      "Analyzing data using machine learning tools (like Natural Language Processing and network analysis)",
+      "Building, debugging and improving machine learning models for prediction tasks."]
+    },
     {
-      "name": "Above Sport",
-      "position": "Student Data Analyst",
-      "startDate": "2023-10",
-      "endDate": "2024-05",
-      "summary": "Supported the data team in many ad hoc tasks and performed process automation and database cleaning of sports media data.",
-      "highlights": ["Data Analysis"]
-    }
+        "name": "Above Sport",
+        "position": "Student Data Analyst",
+        "startDate": "2023-10",
+        "endDate": "2024-05",
+        "summary": "Supported the data team in many ad hoc tasks and performed process automation and database cleaning of sports media data.",
+        "highlights": ["Supported the data team in many ad hoc tasks.","Performed process automation and database cleaning of sports media data."
+                      ]
+      }
   ],
   "education": [
     {
