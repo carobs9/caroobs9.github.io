@@ -6,13 +6,11 @@
     "email": "carobrasor@gmail.com",
     "phone": "+45 60 90 73 33",
     "url": "https://carobs9.github.io",
-    "summary": "[Social Data Science MSc.](https://www.ku.dk/studies/masters/social-data-science) graduate, deeply passionate about the field of data science and analytics, particularly interested in the use of machine learning, natural language processing and network analysis tools to find relevant solutions to big and small problems. ",
+    "summary": "Social Data Science MSc. graduate, deeply passionate about the field of data science and analytics, particularly interested in the use of machine learning, natural language processing and network analysis tools to find relevant solutions to big and small problems. ",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Copenhagen",
+      "countryCode": "DK",
+      "region": "Copenhagen"
     },
     "profiles": [
       {
@@ -24,25 +22,22 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "University of Copenhagen",
+      "position": "Research Assistant",
+      "startDate": "2024-05",
+      "endDate": "In Progress",
+      "summary": "Working along a team of researchers for the project “Shocking Religion”, which examines the impact of religion on economic factors using shocks to religion as natural experiments. Some of my tasks comprise:gathering large unstructured data using different methods such as web scraping or document data extraction, or by structuring existing digitized data",
+      "highlights": ["Research"]
     }
   ],
-  "volunteer": [
+  "work_2": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Above Sport",
+      "position": "Student Data Analyst",
+      "startDate": "2023-10",
+      "endDate": "2024-05",
+      "summary": "Supported the data team in many ad hoc tasks and performed process automation and database cleaning of sports media data.",
+      "highlights": ["Data Analysis"]
     }
   ],
   "education": [
