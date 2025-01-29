@@ -24,7 +24,7 @@
     {
       "name": "University of Copenhagen",
       "position": "Research Assistant",
-      "startDate": "2024-05",
+      "startDate": "May 2024",
       "endDate": "now",
       "summary": "Working along a team of researchers for the project “Shocking Religion”, which examines the impact of religion on economic factors using shocks to religion as natural experiments.",
       "highlights": ["Gathering large unstructured data using different methods such as web scraping or document data extraction, or by structuring existing digitized data",
@@ -35,8 +35,8 @@
     {
         "name": "Above Sports",
         "position": "Student Data Analyst",
-        "startDate": "2023-10",
-        "endDate": "2024-05",
+        "startDate": "Oct 2023",
+        "endDate": "May 2024",
         "summary": "Supported the data team in many ad hoc tasks and performed process automation and database cleaning of sports media data.",
         "highlights": ["Supported the data team in many ad hoc tasks.","Performed process automation and database cleaning of sports media data."
                       ]
@@ -66,7 +66,7 @@
       "institution": "Cardinal Stritch University",
       "location": "Milwaukee, United States",
       "area": "Computer Science",
-      "studyType": "Minor",
+      "studyType": "Minor Degree",
       "startDate": "Sep 2018",
       "endDate": "Jun 2022",
       "courses": ["Data Science"]
@@ -75,47 +75,59 @@
   "awards": [
     {
       "title": "Dean's List",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "date": "2018, 2019, 2020, 2021",
+      "awarder": "Cardinal Stritch University",
+      "summary": "The Dean's List is comprised of a select group of students who have carried at least 12 credits and achieved a grade point average of 3.5 or above during a specific semester."
+    },
+    {
+      "title": "Best Graduating GPA of Marketing Bachelor",
+      "date": "2022",
+      "awarder": "Cardinal Stritch University",
+      "summary": "Best graduating GPA (3.8/4.0) of the Bachelor of Science in Marketing of the 2022 class at the time of graduation."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Google Ads Search",
+      "date": "Jan 2021",
+      "issuer": "Google",
+      "icon": "fa-solid fa-location-dot" 
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "QSocial Media Marketing Certification Course",
+      "date": "Oct 2021",
+      "issuer": "HubSpot Academy",
+      "url": "https://app.hubspot.com/academy/achievements/w53d5rx9/en/1/carolina-branas/social-media-marketing-certification-course",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Hootsuite Platform Certification",
+      "date": "Feb 2021",
+      "issuer": "Hootsuite",
+      "icon": "fa-solid fa-envelope"
+    },
+    {
+      "name": "Social Marketing Certification",
+      "date": "Feb 2021",
+      "issuer": "Hootsuite",
       "icon": "fa-solid fa-envelope"
     }
   ],
   "skills": [
     {
-      "name": "Data Analystics",
+      "name": "Data Analytics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Quantum Mechanics"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Quantum Mechanics"
       ]
     }
   ],
@@ -143,7 +155,19 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Network Science",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    },
+    {
+      "name": "Urban Mobility",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Quantum Mechanics",
@@ -159,7 +183,7 @@
     {
       "name": "Mobility and Income Segregation in Madird, Spain.",
       "summary": "This study explores the relationship between income inequality and urban mobility in the city of Madrid.",
-      "highlights": ["Mobility", "Segregation"],
+      "highlights": ["Urban Mobility", "Segregation"],
       "startDate": "2024-01-09",
       "endDate": "2025-23-01",
       "url": "https://github.com/carobs9/segregation-madrid"
