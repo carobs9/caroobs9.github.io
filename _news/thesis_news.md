@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Thesis Project - Mobility and Income Segregation in Madrid
+title: thesis
 date: 2025-12-20 16:30:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
-
-# Mobility and Income Segregation in Madrid, Spain
+## Mobility and Income Segregation in Madrid, Spain
 
 This study explores the relationship between income inequality and urban mobility in the city of Madrid. Literature shows that bringing mobility into the study of inequality and segregation can bring an extra dimension to its study. By using a granular mobility dataset of trips throughout a month of 2022 (obtained from [MITMA Estudios Básicos](https://www.transportes.gob.es/ministerio/proyectos-singulares/estudios-de-movilidad-con-big-data/estudio-basico-diario)), a series of methods are developed to measure which districts play a central role in pulling and pushing travellers, and to measure which income groups travel more, and longer distances within the city. This research provides insights on the ongoing income segregation patterns in Madrid, and identifies slightly homophilic travelling tendencies. It also reveals that lower income groups tend to travel more and longer on average than higher income groups. This research contributes to the field of urban studies and emerging fields like Science of Cities or Urban Data Science, and aims to aid policymakers to identify mobility isolated areas in the urban space to develop effective policies to reduce the negative effects of gentrification and segregation.
 
@@ -67,63 +65,3 @@ I analyse the average distance of the trips based on the four aforementioned qua
 #### Results
 I conclude that residents from the lowest median income quantile travel slightly longer distances on average than residents from the highest median income quantile. Residents from the highest Gini index quantile travel shorter distances on average than residents from the lowest Gini index quantile. I also conclude that the average distance of most trips falls under a 0.5 km - 2.5 km window, and that those performing the longest average trips belong to the low-income and low-Gini quantiles.
 
-## Installation
-
-- Install Python (version 3.11 was used for this development).
-- Clone the repository from terminal (Git must be installed):
-     ```
-     git clone https://github.com/carobs9/segregation-madrid.git
-     ```
-
-- To activate the environment, run:
-    - On Mac:
-      ```
-      source ./<your_env_name>/bin/activate
-      ```
-    - On Windows:
-      ```
-      ./<your_env_name>/Scripts/activate
-      ```
-    - On Linux:
-       ```
-      ./<your_env_name>/bin/activate
-      ```
-
-- To Install the dependencies:
-       ```
-      pip install -r requirements.txt
-      ```
-
-## Script Execution Order and Descriptions
-
-| Order | Folder              | Script Name               | Description                                                                 |
-|-------|---------------------|---------------------------|-----------------------------------------------------------------------------|
-| 1     | mobility_data       | get_viajes.py            | Extracts raw trip data from MITMA and formats it into a usable dataset for analysis. Different variables can be selected to either download a monthly sample or a smaller one.  |
-| 2     | mobility_data       | get_geometrias.py        | Retrieves and cleans the Madrid city geometries and their respective names. |
-| 3     | segregation_indices | preprocessing.py         | Cleans and prepares data for segregation measures.               |
-| 4     | segregation_indices | assortativity_matrix.py  | Constructs the assortativity matrices used to measure mixing across income deciles. The median income per consumption unit and the Gini index variables can be selected to generate the deciles.|
-| 5     | segregation_indices | morans_i.py              | Calculates local and global Moran's I to measure spatial autocorrelation of income levels. The income variables of interest can be selected. |
-| 6     | trip_analysis       | trip_count.py            | Computes and analyzes trip counts across districts based on median income and Gini index districts of residence to detect patterns. Outputs the trip count dataset and the shares of trips from low to high quantiles and vice versa.|
-| 7     | trip_analysis       | trip_distances.py        | Computes and visualizes trip distances to analyze mobility patterns based on the median income and Gini index quantiles of residence of individuals. |
-| 8    | network          | get_graph.py             | Builds a graph structure from mobility data for clustering analysis. It outputs the graph in pickle format, an adjacency matrix displayed as a heatmap, and the adjacency matrix displayed as a numpy file.  |
-| 9    | network          | regressions.py           | Runs regression models to analyze relationships between in-weight, out-weight and the variables of interest: median income per consumption unit and the Gini index. |
-| 10    | network          | visualization.py         | Generates visualizations of the previously built graph as html.   |
-| 11    | data_overview       | main_descriptives.py     | Generates general descriptive statistics and summary plots for the income data, city landscape and segregation measures. |
-| 12    | data_overview       | viajes_stats.py          | Computes trip-level statistics.  |
-
-
-## Configuration Variables
-
-| Variable Name | Options              |
-|-------|---------------------|
-| DF_OF_INTEREST | String of the dataframe from MITMA |
-| MONTH_DAYS |List containing days of the month of interest|
-| type_of_study     | 'month', 'week', 'weekend', 'morans', 'two_weeks'. 'month' has been used to perform this study, and 'morans' when calculating the morans indices.| 
-| ROOT_PATH     | Root path as Path objet      | 
-| SAVE_DFS     | Boolean: True / False     | 
-| SAVE_FIGURES     | Boolean: True / False       | 
-| INCOME_VARS_OF_INTEREST     |     'Gini Index','Average income per consumption unit','Median income per consumption unit','Average gross income per household','Average gross income per person','Average net income per household','Average net income per person'     | 
-
-## Known Issues
-
-The Pyproj CRS method gives problems based on the environment. It is not needed to replicate the study, so it has been commented out through the files. In addition, the Figures, Morans and Month directories need to be created by the user, as the directory is not created by running the code. In the future, this bug will be corrected.
