@@ -192,7 +192,6 @@ exclude:
   - readme_preview/
   - vendor
   # added by me:
-  - _pages/blog.md
   - _pages/about_einstein.md
   - _pages/publications.md
   - _pages/teaching.md
