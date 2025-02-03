@@ -26,5 +26,3 @@ latest_posts:
 ---
 
 [Social Data Science MSc.](https://www.ku.dk/studies/masters/social-data-science) graduate, deeply passionate about the field of data science and analytics, particularly interested in the use of machine learning, natural language processing and network analysis tools to find relevant solutions to problems. 
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
