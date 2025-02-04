@@ -25,8 +25,6 @@ latest_posts:
   limit: 10 # leave blank to include all the blog posts
 ---
 
-## Welcome
-
 Hi! I am a [Social Data Science MSc.](https://www.ku.dk/studies/masters/social-data-science) graduate, with a focus on the field of data science and analytics, particularly interested in the use of machine learning, natural language processing and network analysis tools to find relevant solutions to problems. 
 
 ## About this website
