@@ -50,8 +50,7 @@
       "institution": "University of Copenhagen",
       "location": "Copenhagen, Denmark",
       "url": "https://www.ku.dk/en",
-      "area": "Social Data Science",
-      "studyType": "Masters Degree",
+      "studyType": "Masters Degree in Social Data Science",
       "startDate": "09-2022",
       "endDate": "01-2025",
       "courses": ["Data Science", "Machine Learning"]
@@ -59,8 +58,7 @@
     {
       "institution": "University of Copenhagen, IT University of Copenhagen",
       "location": "Copenhagen, Denmark",
-      "area": "Social Data Science",
-      "studyType": "External Elective Courses",
+      "studyType": "Master External Elective Courses",
       "startDate": "09-2022",
       "endDate": "01-2025",
       "courses": ["Advanced Machine Learning for Data Science", "Advanced Network Science", 
@@ -69,19 +67,17 @@
     {
       "institution": "Cardinal Stritch University",
       "location": "Milwaukee, United States",
-      "area": "Marketing",
-      "studyType": "Bachelors Degree",
-      "startDate": "Sep 2018",
-      "endDate": "Jun 2022",
+      "studyType": "Bachelors Degree in Marketing",
+      "startDate": "09-2018",
+      "endDate": "06-2022",
       "courses": ["Marketing", "Micro/Macro economics", "Finance", "Statistics"]
     },
     {
       "institution": "Cardinal Stritch University",
       "location": "Milwaukee, United States",
-      "area": "Computer Science",
-      "studyType": "Minor Degree",
-      "startDate": "Sep 2018",
-      "endDate": "Jun 2022",
+      "studyType": "Minor Degree in Computer Science",
+      "startDate": "09-2018",
+      "endDate": "06-2022",
       "courses": ["Intro to Java, HTML, CSS, Computer Architecture"]
     }
   ],
@@ -104,7 +100,7 @@
       "name": "Google Ads Search",
       "date": "Jan 2021",
       "issuer": "Google",
-      "icon": "fa-solid fa-location-dot" 
+      "icon": "fa-solid fa-location-tag" 
     },
     {
       "name": "Social Media Marketing Certification Course",
@@ -117,13 +113,13 @@
       "name": "Hootsuite Platform Certification",
       "date": "Feb 2021",
       "issuer": "Hootsuite",
-      "icon": "fa-solid fa-envelope"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Social Marketing Certification",
       "date": "Feb 2021",
       "issuer": "Hootsuite",
-      "icon": "fa-solid fa-envelope"
+      "icon": "fa-solid fa-tag"
     }
   ],
   "skills": [
@@ -166,14 +162,14 @@
   "interests": [
     {
       "name": "Network Science",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-hashtag",
       "keywords": [
         "test"
       ]
     },
     {
       "name": "Urban Mobility",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-hashtag",
       "keywords": [
         "test"
       ]
@@ -184,8 +180,8 @@
       "name": "Mobility and Income Segregation in Madird, Spain.",
       "summary": "This study explores the relationship between income inequality and urban mobility in the city of Madrid.",
       "highlights": ["Urban Mobility", "Segregation"],
-      "startDate": "2024-01-09",
-      "endDate": "2025-23-01",
+      "startDate": "2024-09",
+      "endDate": "2025-01",
       "url": "https://github.com/carobs9/segregation-madrid"
     }
   ]
