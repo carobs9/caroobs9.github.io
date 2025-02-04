@@ -24,10 +24,11 @@
     {
       "name": "University of Copenhagen",
       "position": "Research Assistant",
-      "startDate": "May 2024",
+      "startDate": "05-2024",
       "endDate": "now",
       "summary": "Working along a team of researchers for the project “Shocking Religion”, which examines the impact of religion on economic factors using shocks to religion as natural experiments.",
-      "highlights": ["Gathering large unstructured data using different methods such as web scraping or document data extraction, or by structuring existing digitized data",
+      "highlights": [
+      "Gathering large unstructured data using different methods such as web scraping or document data extraction, or by structuring existing digitized data",
       "Cleaning, merging, and visualizing data",
       "Analyzing data using machine learning tools (like Natural Language Processing and network analysis)",
       "Building, debugging and improving machine learning models for prediction tasks."]
@@ -35,10 +36,12 @@
     {
         "name": "Above Sports",
         "position": "Student Data Analyst",
-        "startDate": "Oct 2023",
-        "endDate": "May 2024",
+        "startDate": "10-2023",
+        "endDate": "05-2024",
         "summary": "Supported the data team in many ad hoc tasks and performed process automation and database cleaning of sports media data.",
-        "highlights": ["Supported the data team in many ad hoc tasks.","Performed process automation and database cleaning of sports media data."
+        "highlights": [
+          "Supported the data team in many ad hoc tasks.",
+          "Performed process automation and database cleaning of sports media data."
                       ]
       }
   ],
@@ -49,9 +52,19 @@
       "url": "https://www.ku.dk/en",
       "area": "Social Data Science",
       "studyType": "Masters Degree",
-      "startDate": "Sep 2022",
-      "endDate": "Jan 2025",
-      "courses": ["Data Science"]
+      "startDate": "09-2022",
+      "endDate": "01-2025",
+      "courses": ["Data Science", "Machine Learning"]
+    },
+    {
+      "institution": "University of Copenhagen, IT University of Copenhagen",
+      "location": "Copenhagen, Denmark",
+      "area": "Social Data Science",
+      "studyType": "External Elective Courses",
+      "startDate": "09-2022",
+      "endDate": "01-2025",
+      "courses": ["Advanced Machine Learning for Data Science", "Advanced Network Science", 
+                  "Geospatial Data Science", "Natural Language Processing"]
     },
     {
       "institution": "Cardinal Stritch University",
@@ -60,7 +73,7 @@
       "studyType": "Bachelors Degree",
       "startDate": "Sep 2018",
       "endDate": "Jun 2022",
-      "courses": ["Marketing"]
+      "courses": ["Marketing", "Micro/Macro economics", "Finance", "Statistics"]
     },
     {
       "institution": "Cardinal Stritch University",
@@ -69,7 +82,7 @@
       "studyType": "Minor Degree",
       "startDate": "Sep 2018",
       "endDate": "Jun 2022",
-      "courses": ["Data Science"]
+      "courses": ["Intro to Java, HTML, CSS, Computer Architecture"]
     }
   ],
   "awards": [
@@ -94,7 +107,7 @@
       "icon": "fa-solid fa-location-dot" 
     },
     {
-      "name": "QSocial Media Marketing Certification Course",
+      "name": "Social Media Marketing Certification Course",
       "date": "Oct 2021",
       "issuer": "HubSpot Academy",
       "url": "https://app.hubspot.com/academy/achievements/w53d5rx9/en/1/carolina-branas/social-media-marketing-certification-course",
@@ -119,16 +132,13 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics"
+        "Data visualization and analysis"
       ]
     },
     {
       "name": "Machine Learning",
       "level": "Intermediate",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics"
-      ]
+      "icon": "fa-solid fa-hashtag"
     }
   ],
   "languages": [
@@ -158,24 +168,14 @@
       "name": "Network Science",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "test"
       ]
     },
     {
       "name": "Urban Mobility",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "test"
       ]
     }
   ],
