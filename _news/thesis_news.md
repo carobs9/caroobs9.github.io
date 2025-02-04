@@ -1,6 +1,6 @@
 ---
 layout: post
-title: thesis
+title: Master's Thesis on Mobility and Income Segregation in Madrid
 date: 2024-12-20 16:30:00-0400
 inline: false
 related_posts: false

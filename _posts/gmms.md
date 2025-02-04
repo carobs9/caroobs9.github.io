@@ -19,13 +19,4 @@ This is an example post with image galleries.
     A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
 </div>
 
-Images can be made zoomable.
-Simply add `data-zoomable` to `<img>` tags that you want to make zoomable.
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gmms2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-
 The rest of the images in this post are all zoomable, arranged into different mini-galleries.

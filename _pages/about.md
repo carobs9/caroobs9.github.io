@@ -22,7 +22,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 10 # leave blank to include all the blog posts
 ---
 
 [Social Data Science MSc.](https://www.ku.dk/studies/masters/social-data-science) graduate, deeply passionate about the field of data science and analytics, particularly interested in the use of machine learning, natural language processing and network analysis tools to find relevant solutions to problems. 
