@@ -10,7 +10,7 @@ thumbnail: assets/img/gmms1.png
 
 ---
 
-## Using Gaussian Mixture Models to Cluster and Generate skicit-learn Iris Dataset
+# Using Gaussian Mixture Models to Cluster and Generate skicit-learn Iris Dataset
 
 ## Gaussian Mixture Models
 
