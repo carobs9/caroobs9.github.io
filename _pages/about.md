@@ -27,11 +27,11 @@ latest_posts:
 
 Hi! I am a [Social Data Science MSc.](https://www.ku.dk/studies/masters/social-data-science) graduate, with a focus on the field of data science and analytics, particularly interested in the use of machine learning, natural language processing and network analysis tools to find relevant solutions to problems. 
 
-## About this website
+#### About this website
 
 More than a personal website, this is a place where I post some of the last projects I have been working on, learning or curious about, and some of my personal information. Essentially, this is more like a blog or a place where I take notes in a pretty way.
 
-## Interests 
+#### Interests 
 
 - Urban mobility
 - Natural language processing

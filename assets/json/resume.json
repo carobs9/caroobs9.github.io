@@ -98,26 +98,26 @@
   "certificates": [
     {
       "name": "Google Ads Search",
-      "date": "Jan 2021",
+      "date": "01-2021",
       "issuer": "Google",
-      "icon": "fa-solid fa-location-tag" 
+      "icon": "fa-solid fa-tag" 
     },
     {
       "name": "Social Media Marketing Certification Course",
-      "date": "Oct 2021",
+      "date": "10-2021",
       "issuer": "HubSpot Academy",
       "url": "https://app.hubspot.com/academy/achievements/w53d5rx9/en/1/carolina-branas/social-media-marketing-certification-course",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "Hootsuite Platform Certification",
-      "date": "Feb 2021",
+      "date": "02-2021",
       "issuer": "Hootsuite",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "Social Marketing Certification",
-      "date": "Feb 2021",
+      "date": "02-2021",
       "issuer": "Hootsuite",
       "icon": "fa-solid fa-tag"
     }

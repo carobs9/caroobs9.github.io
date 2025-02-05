@@ -1,7 +1,7 @@
 ---
 layout: post
 title: micrograd
-date: 2024-05-15 21:01:00
+date: 
 description: a post about migrograd
 tags: random
 categories: random
