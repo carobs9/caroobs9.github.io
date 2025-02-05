@@ -3,7 +3,7 @@ layout: post
 title: learning about gaussian mixture models
 date: 2024-05-15 21:01:00
 description: a post about gaussian mixture models
-tags: formatting images
+tags: gmm
 categories: generative models
 related_posts: false
 thumbnail: assets/img/gmms1.png

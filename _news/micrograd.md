@@ -1,10 +1,10 @@
 ---
 layout: post
 title: micrograd
-date: 
+date: unknown
 description: a post about migrograd
-tags: random
-categories: random
+tags: backpropagation
+categories: neural nets
 related_posts: false
 thumbnail: assets/html/micrograd.html
 
