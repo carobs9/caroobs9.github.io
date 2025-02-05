@@ -6,13 +6,12 @@ description: breast cancer prediction
 tags: medical applications
 categories: machine learning
 related_posts: false
-thumbnail: assets/html/micrograd.html
 
 ---
 
 ## Breast Cancer Prediction  
 
-test
+test ---- 
 
 <iframe src="{{ site.baseurl }}/assets/html/data_eda.html" width="150%" height="700px"></iframe>
 
