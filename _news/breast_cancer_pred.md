@@ -1,6 +1,6 @@
 ---
 layout: post
-title: breast cancer predIction
+title: breast cancer prediction
 date: 
 description: breast cancer prediction
 tags: medical-applications
@@ -24,7 +24,7 @@ To select the features, I explore different techniques: correlation, random fore
 
 In the following Jupyter Notebook I go over a set of EDA and feature selection methods, just to understand the data better and consider reducing the number of features:
 
-<iframe src="{{ site.baseurl }}/assets/html/data_eda.html" width="150%" height="700px"></iframe>
+<iframe src="{{ site.baseurl }}/assets/html/data_eda.html" width="100%" height="700px"></iframe>
 
 
 ## Building Neural Network Using Keras
@@ -56,4 +56,4 @@ As key notes:
     - the test loss is lower than the training loss overall, propably because of the use of dropout regularization in the training phase. This essentially makes the model more robust during test than during training.
 
 
-<iframe src="{{ site.baseurl }}/assets/html/breast_cancer_prediction.html" width="150%" height="700px"></iframe>
+<iframe src="{{ site.baseurl }}/assets/html/breast_cancer_prediction.html" width="100%" height="700px"></iframe>
