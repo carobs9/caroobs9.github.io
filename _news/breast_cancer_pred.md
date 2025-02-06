@@ -1,7 +1,7 @@
 ---
 layout: post
 title: breast cancer predIction
-date: 2024-05-25 21:01:00
+date: 
 description: breast cancer prediction
 tags: medical-applications
 categories: machine-learning
@@ -11,7 +11,7 @@ related_posts: false
 
 # Breast Cancer Prediction  
 
-I performed a binary prediction task using the famous [Wisconsin Breast Cancer Dataset](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic9).
+I performed a binary classification task using the famous [Wisconsin Breast Cancer Dataset](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic9).
 
 
 ## Exploratory Data Analysis and Feature Selection
@@ -25,6 +25,7 @@ To select the features, I explore different techniques: correlation, random fore
 In the following Jupyter Notebook I go over a set of EDA and feature selection methods, just to understand the data better and consider reducing the number of features:
 
 <iframe src="{{ site.baseurl }}/assets/html/data_eda.html" width="150%" height="700px"></iframe>
+
 
 ## Building Neural Network Using Keras
 
@@ -49,6 +50,7 @@ The model is trained with the following parameters:
     - the model gives best results when trained during 300 epochs. That means that the model learns to classify between benign (0) and malign (1) after 300 epochs.
 
 As key notes:
+
     - the test loss decreases from 0.7472 (first epoch) to 0.0668 (last epoch).
     - the test set accuracy increases during training from 0.608 (first epoch) to 0.986 (last epoch).
     - the test loss is lower than the training loss overall, propably because of the use of dropout regularization in the training phase. This essentially makes the model more robust during test than during training.
