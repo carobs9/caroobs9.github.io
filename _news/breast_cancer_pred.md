@@ -20,9 +20,9 @@ The dataset contains up to 30 features, computed from a digitized image of a fin
 
 I started the classification task by performing an exploratory data analysis to understand the features and select the most explanatory ones to train a simple neural network. 
 
-To select the features, I explore different techniques: correlation, random forest classification or PCA (Principal COmponent Analysis). According to the results, only around 11 features explain the data distribution.
+To select the features, I explore different techniques: correlation, random forest classification or PCA (Principal Component Analysis). According to the results, only around 11 features explain the data distribution.
 
-In the following Jupyter Notebook I go over a set of EDA and feature selection methods, just to understand the data better and consider reducing the number of features:
+In the following Jupyter Notebook I go over a set of EDA (Exploratory Data Analysis) and feature selection methods, just to understand the data better and consider reducing the number of features:
 
 <iframe src="{{ site.baseurl }}/assets/html/data_eda.html" width="100%" height="700px"></iframe>
 
