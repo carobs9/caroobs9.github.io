@@ -1,7 +1,7 @@
 ---
 layout: post
-title: micrograd
-date: unknown
+title: breast cancer pred
+date: 2024-05-25 21:01:00
 description: breast cancer prediction
 tags: medical applications
 categories: machine learning
