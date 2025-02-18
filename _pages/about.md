@@ -9,7 +9,7 @@ profile:
   image: cb.webp
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Copenhagen, Denmark</p>
+    <p>Right now in Copenhagen, Denmark</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,9 +29,9 @@ Hi! I am a [Social Data Science MSc.](https://www.ku.dk/studies/masters/social-d
 
 #### About this website
 
-More than a personal website, this is a place where I post some of the last projects I have been working on, learning or curious about, and some of my personal information. Essentially, this is more like a blog or a place where I take notes in a pretty way.
+More than a personal website, this is a place where I post some of the last projects I have been working on, learning or curious about, and some of my personal information. Essentially, this is more like a blog or a place where I take notes of interesting machine learning topics.
 
-#### Interests ...
+#### Interests 
 
 - Urban mobility
 - Natural language processing

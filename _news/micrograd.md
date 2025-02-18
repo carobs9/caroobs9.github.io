@@ -12,6 +12,6 @@ thumbnail: assets/html/micrograd.html
 
 ## Replicating Micrograd 
 
-[Andrej Karpathy](https://karpathy.ai/) explains backpropagation from scratch by using his library [Micrograd](https://github.com/karpathy/micrograd). I followed his tutorial to understand backpropagation step by step and from scratch, and the gradients' plots are quite beautiful.
+[Andrej Karpathy](https://karpathy.ai/) explains backpropagation from scratch by using his library [Micrograd](https://github.com/karpathy/micrograd). I followed his tutorial to understand backpropagation step by step and from scratch, and added the resulting the gradients' plots.
 
 <iframe src="{{ site.baseurl }}/assets/html/micrograd.html" width="100%" height="600px"></iframe>
