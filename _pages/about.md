@@ -29,9 +29,10 @@ Hi! I am a [Social Data Science MSc.](https://www.ku.dk/studies/masters/social-d
 
 #### About this website
 
-More than a personal website, this is a place where I post some of the last projects I have been working on, learning or curious about, and some of my personal information. Essentially, this is more like a blog or a place where I take notes of interesting machine learning topics.
+More than a personal website, this is a place where I post some of the last projects I have been working on, learning or curious about, and some of my personal information. Essentially, this is more like a blog or a place where I take notes about topics that I find interesting.
 
 #### Interests 
 
 - Urban mobility
 - Natural language processing
+- Geospatial data science
