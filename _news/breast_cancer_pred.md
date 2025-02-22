@@ -1,7 +1,7 @@
 ---
 layout: post
 title: breast cancer prediction
-date: 
+date: 05-10-2024
 description: breast cancer prediction
 tags: medical-applications
 categories: machine-learning
