@@ -23,8 +23,8 @@
   "work": [
     {
       "name": "University of Copenhagen",
-      "position": "Research Assistant",
-      "startDate": "05-2024",
+      "position": "Part-Time Research Assistant",
+      "startDate": "02-2025",
       "endDate": "now",
       "summary": "Working along a team of researchers for the project “Shocking Religion”, which examines the impact of religion on economic factors using shocks to religion as natural experiments.",
       "highlights": [
@@ -32,6 +32,14 @@
       "Cleaning, merging, and visualizing data",
       "Analyzing data using machine learning tools (like Natural Language Processing and network analysis)",
       "Building, debugging and improving machine learning models for prediction tasks."]
+    },
+    {
+      "name": "University of Copenhagen",
+      "position": "Student Research Assistant",
+      "startDate": "05-2024",
+      "endDate": "02-2025",
+      "summary": "",
+      "highlights": [""]
     },
     {
         "name": "Above Sports",
@@ -177,7 +185,7 @@
   ],
   "projects": [
     {
-      "name": "Mobility and Income Segregation in Madird, Spain.",
+      "name": "Mobility and Income Segregation in Madrid, Spain.",
       "summary": "This study explores the relationship between income inequality and urban mobility in the city of Madrid.",
       "highlights": ["Urban Mobility", "Segregation"],
       "startDate": "2024-09",
