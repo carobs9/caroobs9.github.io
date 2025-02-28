@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Carolina Brañas",
-    "label": "Social Data Scientist",
+    "label": "Data Scientist",
     "image": "",
     "email": "carobrasor@gmail.com",
-    "phone": "+45 60 90 73 33",
+    "phone": "",
     "url": "https://carobs9.github.io",
     "summary": "Social Data Science MSc. graduate, deeply passionate about the field of data science and analytics, particularly interested in the use of machine learning, natural language processing and network analysis tools to find relevant solutions to big and small problems. ",
     "location": {
@@ -39,7 +39,7 @@
       "startDate": "05-2024",
       "endDate": "02-2025",
       "summary": "",
-      "highlights": [""]
+      "highlights": ""
     },
     {
         "name": "Above Sports",
